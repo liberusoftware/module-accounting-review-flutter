@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-review-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-review",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_review_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/accounting-review.md",
+  "presentationPlan": "projects/accounting/flutter/accounting-review.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
